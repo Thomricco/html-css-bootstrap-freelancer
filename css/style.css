@@ -25,3 +25,31 @@
 .text-green {
     color: rgb(53, 160, 156);
 }
+
+.color-box-4 {
+    background-color: rgb(49, 63, 75);
+}
+
+.box-icon {
+    width: 25px;
+    height: 25px;
+    border: 1px white solid;
+    border-radius: 50px;
+    display: inline-block;
+    
+    
+}
+
+.fab {
+    vertical-align: middle;
+}
+
+@media screen and (max-width: 575px) {
+
+    .box-icon {
+        width: 50px;
+        height: 50px;
+    }
+
+
+}

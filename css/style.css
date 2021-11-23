@@ -1,6 +1,5 @@
 .color-box-1 {
-    background-color: dimgray;
-    height: 100px;
+    background-color: rgb(77, 98, 117);
 }
 
 .color-box-2 {
@@ -21,4 +20,8 @@
 
 .bar2 {
     border: 1px black solid;
+}
+
+.text-green {
+    color: rgb(53, 160, 156);
 }

@@ -81,7 +81,10 @@ width: 100%;
 }
 input[type=text], textarea {
 padding: 10px;
-border: 1px solid #CCC;
+border-top: none;
+border-left: none;
+border-right: none;
+border-bottom: 1px solid #CCC;
 border-radius: 3px;
 box-sizing: border-box;
 margin-top: 5px;
